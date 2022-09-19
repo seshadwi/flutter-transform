@@ -88,4 +88,4 @@ Transform(
 
 **Run** aplikasi tersebut dengan tekan **F5**, maka hasilnya akan seperti berikut.
 
-![screenshot](images/01.png)
+![screenshot](images/Picture1.png)
