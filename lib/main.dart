@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   MaterialPageRoute(builder: (context) => const Transform02()),
                 );
               },
-              child: Text('Transform 02'),
+              child: Text('Perspektif 01'),
               style: ElevatedButton.styleFrom(
                 fixedSize: const Size(240, 30),
               ),
@@ -77,7 +77,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   MaterialPageRoute(builder: (context) => const Transform03()),
                 );
               },
-              child: Text('Transform 03'),
+              child: Text('Perspektif 02'),
               style: ElevatedButton.styleFrom(
                 fixedSize: const Size(240, 30),
               ),
@@ -90,7 +90,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       builder: (context) => const FlipAnimation()),
                 );
               },
-              child: Text('Flip Animation'),
+              child: Text('Flip Animasi 3D'),
               style: ElevatedButton.styleFrom(
                 fixedSize: const Size(240, 30),
               ),
