@@ -89,3 +89,28 @@ Transform(
 **Run** aplikasi tersebut dengan tekan **F5**, maka hasilnya akan seperti berikut.
 
 ![screenshot](images/Picture1.png)
+
+## Tugas Praktikum
+
+1. Perspektif Flutter
+    
+    - Tugas 1
+    
+    ![screenshot](images/Picture2.png)
+    
+    - Tugas 2
+    
+    ![screenshot](images/Picture3.png)
+    
+ 2. Membuat Flip Animasi 3D
+ 
+    - Output
+    
+    ![screenshot](images/Picture4.png)
+    
+    
+    
+    
+    
+    
+    
